@@ -1,4 +1,4 @@
-# 📚 GS - RAG 知识库问答系统
+# 📚 RAG 知识库问答系统
 
 一个基于 FastAPI + Streamlit 的 RAG（检索增强生成）知识库系统。
 
